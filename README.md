@@ -1,2 +1,2 @@
-# EchoSense
-ML project
+# Basic ML Projects
+
